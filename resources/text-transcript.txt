@@ -1,0 +1,46 @@
+canvas 410 220
+Shape disk3 RECTANGLE Spawns at:1000ms Ends at:302000ms
+Created with  X:145.0 Y:240.0 Color:[11, 46, 175].  Width:110.0 Height:30.0
+
+MOVE  Start:121 X:145.0 Y:240.0 Ends:131 X:145.0 Y:240.0
+MOVE  Start:121 X:145.0 Y:240.0 Ends:131 X:145.0 Y:50.0
+MOVE  Start:132 X:145.0 Y:50.0 Ends:142 X:445.0 Y:50.0
+MOVE  Start:143 X:445.0 Y:50.0 Ends:153 X:445.0 Y:240.0
+MOVE  Start:153 X:445.0 Y:240.0 Ends:161 X:145.0 Y:240.0
+COLORCHANGE  Start:153 Color:[11, 46, 175] Ends: 161 Color:[0, 255, 0]
+
+Shape disk1 RECTANGLE Spawns at:1000ms Ends at:302000ms
+Created with  X:190.0 Y:180.0 Color:[0, 50, 90].  Width:20.0 Height:30.0
+
+MOVE  Start:25 X:190.0 Y:180.0 Ends:35 X:190.0 Y:180.0
+MOVE  Start:25 X:190.0 Y:180.0 Ends:35 X:190.0 Y:50.0
+MOVE  Start:36 X:190.0 Y:50.0 Ends:46 X:490.0 Y:50.0
+MOVE  Start:47 X:490.0 Y:50.0 Ends:57 X:490.0 Y:240.0
+MOVE  Start:57 X:490.0 Y:240.0 Ends:89 X:490.0 Y:240.0
+MOVE  Start:89 X:490.0 Y:240.0 Ends:99 X:490.0 Y:50.0
+MOVE  Start:100 X:490.0 Y:50.0 Ends:110 X:340.0 Y:50.0
+MOVE  Start:111 X:340.0 Y:50.0 Ends:121 X:340.0 Y:210.0
+MOVE  Start:121 X:340.0 Y:210.0 Ends:153 X:340.0 Y:210.0
+MOVE  Start:153 X:340.0 Y:210.0 Ends:163 X:340.0 Y:50.0
+MOVE  Start:164 X:340.0 Y:50.0 Ends:174 X:190.0 Y:50.0
+MOVE  Start:175 X:190.0 Y:50.0 Ends:185 X:190.0 Y:240.0
+
+MOVE  Start:185 X:190.0 Y:240.0 Ends:217 X:190.0 Y:240.0
+MOVE  Start:217 X:190.0 Y:240.0 Ends:227 X:190.0 Y:50.0
+MOVE  Start:228 X:190.0 Y:50.0 Ends:238 X:490.0 Y:50.0
+MOVE  Start:239 X:490.0 Y:50.0 Ends:249 X:490.0 Y:180.0
+MOVE  Start:249 X:490.0 Y:180.0 Ends:257 X:190.0 Y:180.0
+COLORCHANGE  Start:249 Color:[0, 50, 90] Ends: 257 Color:[0, 255, 0]
+Shape disk2 RECTANGLE Spawns at:1000ms Ends at:302000ms
+Created with  X:167.5 Y:210.0 Color:[7, 247, 42].  Width:65.0 Height:30.0
+
+MOVE  Start:57 X:167.5 Y:210.0 Ends:67 X:167.5 Y:210.0
+MOVE  Start:57 X:167.5 Y:210.0 Ends:67 X:167.5 Y:50.0
+MOVE  Start:68 X:167.5 Y:50.0 Ends:78 X:317.5 Y:50.0
+MOVE  Start:79 X:317.5 Y:50.0 Ends:89 X:317.5 Y:240.0
+MOVE  Start:89 X:317.5 Y:240.0 Ends:185 X:317.5 Y:240.0
+MOVE  Start:185 X:317.5 Y:240.0 Ends:195 X:317.5 Y:50.0
+MOVE  Start:196 X:317.5 Y:50.0 Ends:206 X:467.5 Y:50.0
+MOVE  Start:207 X:467.5 Y:50.0 Ends:217 X:467.5 Y:210.0
+MOVE  Start:217 X:467.5 Y:210.0 Ends:225 X:167.5 Y:210.0
+COLORCHANGE  Start:217 Color:[7, 247, 42] Ends: 225 Color:[0, 255, 0]
