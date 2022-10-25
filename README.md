@@ -1,5 +1,7 @@
 # Java Animator
 
+###Demo
+[![Demo CountPages alpha](https://imgur.com/a/HEbcsiW)](https://cdn.discordapp.com/attachments/974107046569984021/989885302120276038/received_1154000328775477.mp4)
 ## Important Design Decisions
 
 ### SimpleAnimatorModel
