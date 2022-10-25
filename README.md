@@ -1,7 +1,6 @@
 # Java Animator
 
-###Demo
-[![Demo Doccou alpha](https://i.imgur.com/1TMUGMW.gif)]
+![Demo Doccou alpha](https://i.imgur.com/1TMUGMW.gif)
 ## Important Design Decisions
 
 ### SimpleAnimatorModel
